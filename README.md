@@ -19,7 +19,7 @@ npm install devs-unit-converter
 ```bash
 const duc = require("devs-unit-converter");
 
-console.log(luc.meterToCentimeter(100));
+console.log(duc.meterToCentimeter(100));
 ```
 
 output: 10000
