@@ -12,5 +12,9 @@
     "length"
   ],
   "author": "Dev Vora",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  }
 }
