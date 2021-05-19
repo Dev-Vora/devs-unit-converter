@@ -1,6 +1,6 @@
 {
   "name": "devs-unit-converter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "this package will help you in conversion of diffrent length and time units",
   "main": "index.js",
   "scripts": {
