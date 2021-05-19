@@ -1,7 +1,7 @@
 {
   "name": "devs-unit-converter",
   "version": "1.0.4",
-  "description": "",
+  "description": "this package will help you in conversion of diffrent length and time units",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,10 @@
   "keywords": [
     "unit",
     "converter",
-    "length"
+    "length",
+    "time",
+    "time-converter",
+    "length-converter"
   ],
   "author": "Dev Vora",
   "license": "MIT",
