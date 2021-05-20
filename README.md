@@ -1,6 +1,6 @@
 # devs-unit-converter
 
-this package will help you in conversion of diffrent length and time units
+this package will help you in conversion of diffrent length ,time & temperature units
 
 ## Prerequisite
 
