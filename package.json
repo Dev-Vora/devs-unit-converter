@@ -11,8 +11,10 @@
     "converter",
     "length",
     "time",
+    "temperature",
     "time-converter",
-    "length-converter"
+    "length-converter",
+    "temperature-converter"
   ],
   "author": "Dev Vora",
   "license": "MIT",

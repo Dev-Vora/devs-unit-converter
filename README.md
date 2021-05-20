@@ -21,7 +21,6 @@ npm install devs-unit-converter
 const length = require("devs-unit-converter/length");
 console.log(length.meterToCentimeter(100));
 ```
-
 output: 10000
 
 ```bash
@@ -29,8 +28,14 @@ output: 10000
 const time = require("devs-unit-converter/time");
 console.log(time.dayToHour(1));
 ```
-
 output: 24
+
+```bash
+# to use temperature conversation methods
+const temperature = require("devs-unit-converter/temperature");
+console.log(temperature.celsiusToKelvin(1));
+```
+output: 274.15
 
 ## List of methods
 
@@ -165,4 +170,15 @@ monthToHour(number)
 monthToDay(number)
 monthToWeek(number)
 monthToYear(number)
+
+# for temperature conversation
+celsiusToKelvin(number)
+celsiusToFahrenheit(number)
+
+kelvinToCelsius(number)
+kelvinToFahrenheit(number)
+
+fahrenheitToCelsius(number)
+fahrenheitToKelvin(number)
+
 ```
